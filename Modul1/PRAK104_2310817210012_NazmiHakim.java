@@ -1,3 +1,5 @@
+package soal1;
+
 import java.util.Scanner;
 
 public class PRAK104_2310817210012_NazmiHakim {
