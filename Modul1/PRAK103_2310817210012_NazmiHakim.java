@@ -1,6 +1,8 @@
+package soal1;
+
 import java.util.Scanner;
 
-public class PRAK103_310817210012_NazmiHakim {
+public class PRAK103_2310817210012_NazmiHakim {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
